@@ -1,3 +1,8 @@
+AI / UX thinking repository focused on problem analysis, debugging mindset, and system-level ideas.
+Start here:
+→ UX/
+→ Methods/
+
 I explore:
 - AI understanding models
 - UX/UI problem analysis
