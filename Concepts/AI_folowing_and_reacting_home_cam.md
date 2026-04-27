@@ -40,3 +40,9 @@ Concept. Awaiting technical validation. Next: 1D levitation PoC.
 - Logic over assumptions  
 - Systems over isolated features
 - Privacy: local processing, no cloud video
+
+### Why now?
+
+– static assistants limit interaction quality 
+– users expect proactive systems  
+– spatial AI unlocks continuous context awareness
